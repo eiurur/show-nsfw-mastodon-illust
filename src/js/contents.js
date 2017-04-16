@@ -1,4 +1,5 @@
 {
-  const $ = require('jquery');
-  setInterval(function() { $('.media-spoiler').trigger('click') , 2000})
+  setInterval(function() { 
+    Array.from(document.querySelectorAll(".media-spoiler")).forEach(e => e.click());
+  }, 2000)
 }
