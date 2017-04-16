@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "name": "show-nsfw-mastodon-illust",
+  "description": "yay",
+  "version": "0.1.0",
+  "content_scripts": [{
+    "matches": [
+      "https://pawoo.net/*",
+      "https://mstdn.jp/*"
+    ],
+    "js": [
+      "build/js/contents.bundle.js"
+    ],
+    "run_at": "document_end"
+  }],
+  "icons": {
+    "16": "build/images/icon19.png",
+    "48": "build/images/icon48.png",
+    "128": "build/images/icon128.png"
+  }
+}
