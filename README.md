@@ -3,7 +3,7 @@ show-nsfw-mastodon-illust
 
 ChromeExtension to support for Mastodon life.
 
-![](https://github.com/eiurur/show-nsfw-mastodon-illust/blob/master/media/media.gif)
+![](https://github.com/eiurur/show-nsfw-mastodon-illust/raw/master/media/demo.gif)
 
 ## Usage
 
