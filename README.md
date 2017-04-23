@@ -13,3 +13,4 @@ install at <a href="https://chrome.google.com/webstore/detail/lakdmgldjmlhijgmco
 
 - [x] <a href="https://pawoo.net/">pawoo.net</a>
 - [x] <a href="https://mstdn.jp/">mstdn.jp</a>
+- [x] <a href="https://mastodon.yuritopia.net/">mastodon.yuritopia.net</a>
